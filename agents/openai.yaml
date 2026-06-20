@@ -1,0 +1,7 @@
+interface:
+  display_name: "花椒财经写手"
+  short_description: "用花椒 voice 改写财经长文并学习修改"
+  default_prompt: "Use $huajiao-finance-writer to rewrite this finance article in 花椒 voice and produce a draft I can edit."
+
+policy:
+  allow_implicit_invocation: true
