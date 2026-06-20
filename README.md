@@ -268,14 +268,6 @@ huajiao-finance-writer/
 
 感谢这两个项目
 
-人味儿这件事
-
-不是玄学
-
-是少动一点
-
-别装一点
-
 ## License
 
 见 [LICENSE.md](./LICENSE.md)
