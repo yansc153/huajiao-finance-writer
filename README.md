@@ -272,7 +272,11 @@ huajiao-finance-writer/
 
 见 [LICENSE.md](./LICENSE.md)
 
-我的脚本和本地规则 MIT
+个人使用免费
+
+开源项目使用免费
+
+商业用途不免费，需要授权
 
 `vendor/say-it-human` 走 MIT
 
